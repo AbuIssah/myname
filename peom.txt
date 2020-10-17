@@ -1,5 +1,6 @@
 the rainbow
 red
 green
+Violet
 yellow
 these are the colours of the rainbow
